@@ -4,6 +4,12 @@ Greivance App
 2. find TODOs in grievance.dart and new_grievance_screen.dart.
 3. ignore logo.png in /images/, take only space1_grievances.
 
+
+Overview -
+ Participant's side - welcome_screen -> grievance.dart -> new_grievance.dart
+ Admin's side - welcome_screen -> admin_screen.dart -> solved_screen.dart
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

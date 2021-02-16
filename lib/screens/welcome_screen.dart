@@ -1,7 +1,5 @@
 import 'package:chat_app_vish/screens/greivance.dart';
-import 'package:chat_app_vish/screens/login_screen.dart';
 import 'package:chat_app_vish/screens/new_grievance_screen.dart';
-import 'package:chat_app_vish/screens/registration_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:chat_app_vish/Components/rounded_button.dart';

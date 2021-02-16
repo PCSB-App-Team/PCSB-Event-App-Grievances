@@ -40,7 +40,7 @@ class _SolvedScreenState extends State<SolvedScreen> {
     return Container(
       decoration: BoxDecoration(
           image: DecorationImage(
-              image: AssetImage("images/space1.jpg"), fit: BoxFit.fill)),
+              image: AssetImage("images/space1_grievance.jpg"), fit: BoxFit.fill)),
       child: Scaffold(
         backgroundColor: Colors.transparent,
         body: Padding(

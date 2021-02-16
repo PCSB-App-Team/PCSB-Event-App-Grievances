@@ -41,7 +41,7 @@ class _AdminScreenState extends State<AdminScreen> {
     return Container(
       decoration: BoxDecoration(
           image: DecorationImage(
-              image: AssetImage("images/space1.jpg"), fit: BoxFit.fill)),
+              image: AssetImage("images/space1_grievance.jpg"), fit: BoxFit.fill)),
       child: Scaffold(
         backgroundColor: Colors.transparent,
         body: Padding(

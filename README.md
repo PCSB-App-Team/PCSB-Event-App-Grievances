@@ -5,9 +5,8 @@ Greivance App
 3. ignore logo.png in /images/, take only space1_grievances.
 
 
-4. Overview -
- 4.1.  Participant's side - welcome_screen -> grievance.dart -> new_grievance.dart
- 4.2.  Admin's side - welcome_screen -> admin_screen.dart -> solved_screen.dart
+4. Overview - [Participant's side - welcome_screen -> grievance.dart -> new_grievance.dart]
+  [Admin's side - welcome_screen -> admin_screen.dart -> solved_screen.dart]
 
 
 ## Getting Started

@@ -1,6 +1,8 @@
-# chat_app_vish
+Greivance App
 
-A new Flutter application.
+1. Find buttons for routing to user's grievance and admin screen.
+2. find TODOs in grievance.dart and new_grievance_screen.dart.
+3. ignore logo.png in /images/, take only space1_grievances.
 
 ## Getting Started
 

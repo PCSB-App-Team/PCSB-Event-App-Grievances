@@ -6,8 +6,8 @@ Greivance App
 
 
 4. Overview -
- A. Participant's side - welcome_screen -> grievance.dart -> new_grievance.dart
- B. Admin's side - welcome_screen -> admin_screen.dart -> solved_screen.dart
+ 4.1.  Participant's side - welcome_screen -> grievance.dart -> new_grievance.dart
+ 4.2.  Admin's side - welcome_screen -> admin_screen.dart -> solved_screen.dart
 
 
 ## Getting Started
